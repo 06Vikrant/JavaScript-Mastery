@@ -1,0 +1,15 @@
+Expense Tracker:
+    - add expense mannually 
+    - add a tag to categories on each expense
+    - track how much have already spent and how much more you can spend
+
+Budget/income planner:
+    - add income 
+    - add budget for each category 
+    - reduce budget if expense done from this category
+
+Summary page:
+    - incoming and outgoing money in that month
+
+Challenges:
+    - graphs and other visual tools
